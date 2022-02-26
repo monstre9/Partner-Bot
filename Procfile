@@ -1,1 +1,1 @@
-Worker: node DarkMan.js
+Worker node DarkMan.js
