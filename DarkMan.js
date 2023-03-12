@@ -36,7 +36,7 @@ if(message.channel.type === 'dm') {
 
 if (message.content.startsWith("https://discord.gg/")) {
     
-  message.author.send(` دانرا تۆش ڕیکلامەکە بکە https://discord.gg/Alex`) // لینکی سێرڤەری خۆت لیرە دابنی بە هەتا هەتای بێت
+  message.author.send(` دانرا تۆش ڕیکلامەکە بکە https://discord.gg/PaKnyQkF`) // لینکی سێرڤەری خۆت لیرە دابنی بە هەتا هەتای بێت
     
   client.channels.get("841792552314994709").send(
 ` By: <@${message.author.id}> ✅ 
@@ -57,5 +57,5 @@ client.user.setGame(`PARTNER DarkMan`)
 
 
 
-client.login("");// Token Dane 
+client.login("ODk4MDc5Nzc2OTAyODg1Mzc2.GVmh6V.TdyryFvJ4xWVlFSyQeq_3PxExTO4NpSlD0z9yY");// Token Dane 
 /////coded By DarkMan
