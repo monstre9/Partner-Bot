@@ -57,5 +57,5 @@ client.user.setGame(`PARTNER DarkMan`)
 
 
 
-client.login("MTA4NjI1MzU1NTI3MjQwMDkwNw.GtC-KA.7yObks3ZFu6C0wkqPswFQrbQ6riscOua5Ydzsc");// Token Dane 
+client.login("");// Token Dane 
 /////coded By DarkMan
